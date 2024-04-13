@@ -1,0 +1,19 @@
+.slot-list {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.Hslot {
+    margin: 8px 8px 8px 8px;
+    padding: 10px 10px 10px 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    width: fit-content;
+    border: 5px solid rgb(162, 183, 222);
+}
+
+.Hslot p {
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
